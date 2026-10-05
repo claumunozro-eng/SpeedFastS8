@@ -1,6 +1,7 @@
 package speedfast.concurrencia;
 
-/** Estados usados por la simulación concurrente heredada de la Semana 5. */
+/** Estados usados por la simulación concurrente **/
+
 public enum EstadoPedidoConcurrente {
     PENDIENTE, EN_REPARTO, ENTREGADO
 }

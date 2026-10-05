@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * Recurso compartido de la Semana 5. Los métodos sincronizados garantizan
+ * Los métodos sincronizados garantizan
  * que dos hilos no retiren el mismo pedido.
  */
 public class ZonaDeCarga {

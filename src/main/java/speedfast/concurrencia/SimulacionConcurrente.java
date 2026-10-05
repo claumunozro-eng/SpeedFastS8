@@ -1,7 +1,7 @@
 package speedfast.concurrencia;
 
 /**
- * Conserva el trabajo de la Semana 5: tres repartidores atienden una cola
+ * Tres repartidores atienden una cola
  * compartida de forma concurrente.
  */
 public final class SimulacionConcurrente {
