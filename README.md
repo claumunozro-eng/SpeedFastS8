@@ -1,6 +1,6 @@
 # SpeedFast - Semana 8 | CRUD + JDBC + Swing
 
-Proyecto mejorado a partir del trabajo de la Semana 5 de **Desarrollo Orientado a Objetos II**.
+Proyecto mejorado a partir del trabajo de **Desarrollo Orientado a Objetos II**.
 
 ## Objetivo
 
